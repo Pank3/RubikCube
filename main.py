@@ -1,0 +1,2 @@
+import Solve
+Solve.main()
